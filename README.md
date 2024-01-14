@@ -4,6 +4,25 @@
 
 # Full Stack Developer | Flutter | Django | AWS | UI/UX Enthusiast
 
+# Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-2.10.0-blue?logo=flutter)
+![Django](https://img.shields.io/badge/Django-3.2-green?logo=django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-Latest-brightgreen?logo=django)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blueviolet?logo=bootstrap)
+![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
+![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-ff9900?logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Cloud-brightgreen?logo=google-cloud)
+![Firebase](https://img.shields.io/badge/Firebase-Hosting-yellow?logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue?logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-Latest-blue?logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-Latest-blue?logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-Latest-red?logo=oracle)
+![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green?logo=mongodb)
+![REST API](https://img.shields.io/badge/REST-API-ff69b4)
+![Socket.io](https://img.shields.io/badge/Socket.io-Latest-yellow?logo=socket-dot-io)
+
+
 🚀 **About Me:**
 I am a seasoned Full Stack Developer with a passion for building cutting-edge applications. With over 4 years of expertise in Flutter, I specialize in mobile app development, utilizing REST APIs, Firebase, and various state management solutions. My journey extends to the backend realm, where I've spent the last year mastering the Django framework and its powerful companion, Django Rest Framework (DRF). My proficiency also extends to cloud services, with hands-on experience in AWS and Google Cloud.
 
