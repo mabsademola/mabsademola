@@ -1,3 +1,7 @@
+![Flutter](https://img.shields.io/badge/Flutter-2.10.0-blue?logo=flutter)
+![Django](https://img.shields.io/badge/Django-3.2-green?logo=django)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+
 # Full Stack Developer | Flutter | Django | AWS | UI/UX Enthusiast
 
 🚀 **About Me:**
