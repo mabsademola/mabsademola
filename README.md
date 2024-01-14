@@ -5,7 +5,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-2.10.0-blue?logo=flutter)
 ![Django](https://img.shields.io/badge/Django-3.2-green?logo=django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-Latest-brightgreen?logo=django)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blueviolet?logo=bootstrap)
+
 ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
 ![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-ff9900?logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Cloud-brightgreen?logo=google-cloud)
@@ -23,7 +23,7 @@
 I am a seasoned Full Stack Developer with a passion for building cutting-edge applications. With over 4 years of expertise in Flutter, I specialize in mobile app development, utilizing REST APIs, Firebase, and various state management solutions. My journey extends to the backend realm, where I've spent the last year mastering the Django framework and its powerful companion, Django Rest Framework (DRF). My proficiency also extends to cloud services, with hands-on experience in AWS and Google Cloud.
 
 🛠️ **Tech Stack:**
-- **Frontend:** Flutter, Bootstrap, Figma (UI/UX Design)
+- **Frontend:** |[Flutter](https://img.shields.io/badge/Flutter-2.10.0-blue?logo=flutter)![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blueviolet?logo=bootstrap), Figma (UI/UX Design)
 - **Backend:** Django, Django Rest Framework (DRF)
 - **Cloud:** AWS, Google Cloud Platform (GCP)
 
