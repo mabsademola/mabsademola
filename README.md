@@ -1,7 +1,7 @@
 # Full Stack Developer | Flutter | Django | AWS | UI/UX Enthusiast
 
 🚀 **About Me:**
-I am a seasoned Full Stack Developer with a passion for building cutting-edge applications. With over 4 years of expertise in Flutter, I specialize in mobile app development, utilizing REST APIs, Firebase, and various state management solutions. My journey extends to the backend realm, where I've spent the last year mastering the Django framework and its powerful companion, Django Rest Framework (DRF). My proficiency also extends to cloud services, with hands-on experience in AWS and Google Cloud.
+I am a seasoned Full Stack Developer with a passion for building cutting-edge applications. With over 4.5 years of expertise in Flutter, I specialize in mobile app development, utilizing REST APIs, Firebase, and various state management solutions. My journey extends to the backend realm, where I've spent the last year mastering the Django framework and its powerful companion, Django Rest Framework (DRF). My proficiency also extends to cloud services, with hands-on experience in AWS and Google Cloud.
 
 🛠️ **Tech Stack:**
 
